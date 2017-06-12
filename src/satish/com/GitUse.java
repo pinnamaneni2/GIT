@@ -6,5 +6,7 @@ public class GitUse {
 		
 		HowToUseGit HTUG = new HowToUseGit(); 
 		HTUG.Thisway();	
+		
+		System.out.println("welcome to GitUse");
 	}
 }
